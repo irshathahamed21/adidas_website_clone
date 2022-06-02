@@ -1,0 +1,32 @@
+.footer__links {
+    width:70vw;
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom:40px;
+}
+.link__heading {
+    font-weight: 700;
+    font-size: 18px;
+}
+.final__footer {
+    background-color: rgb(50, 47, 47);
+    color:white;
+    font-size: 14px !important;
+   
+}
+.flex__box {
+    width:30vw;
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    font-size: 14px;
+
+}
+
+.final__line {
+    margin-left: 15vw;
+}
+
